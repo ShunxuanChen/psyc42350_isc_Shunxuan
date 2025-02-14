@@ -1,8 +1,8 @@
 % Task 5
 % calculate_isfc.m
 % Purpose: Calculate inter-subject functional connectivity
-% Author: [Your Name]
-% Date: [Current Date]
+% Author: [Shunxuan Chen]
+% Date: [02/13/2025]
 
 %% Setup
 clear all; close all; clc;
